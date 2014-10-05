@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\ProceduralGen\Assets\Scripts\Chunk.cs">
+    <Files>
+      <File FileName="..\ProceduralGen\Assets\Scripts\World.cs" Line="6" Column="73" />
+      <File FileName="..\ProceduralGen\Assets\Scripts\Chunk.cs" Line="122" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

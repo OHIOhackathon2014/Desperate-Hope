@@ -1,0 +1,188 @@
+Initialize engine version: 4.5.4f1 (e036f44c54c9)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 650M   (ID=0xfd1)
+    Vendor:   NVIDIA
+    VRAM:     1985 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Paul\Documents\WhatAmIDoing\test_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Paul\Documents\WhatAmIDoing\test_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Paul\Documents\WhatAmIDoing\test_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Paul\Documents\WhatAmIDoing\test_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Paul\Documents\WhatAmIDoing\test_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\Paul\Documents\WhatAmIDoing\test_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+- Completed reload, in  0.059 seconds
+desktop: 1920x1080 60Hz; virtual: 3628x1080 at -1708,0
+<RI> Initializing input.
+XInput1_3.dll not found.
+<RI> Input initialized.
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1783)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1783)
+
+We hit Crate and did 10 damage.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+We hit Crate and did 10 damage.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+We hit prototype_blue_32x32 and did 10 damage.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+We hit prototype_blue_32x32 and did 10 damage.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+We hit prototype_blue_32x32 and did 10 damage.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+We hit prototype_blue_32x32 and did 10 damage.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+We hit BulletPrefab 1(Clone) and did 10 damage.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+We hit prototype_blue_32x32 and did 10 damage.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ChangeTrigger.OnTriggerEnter2D (UnityEngine.Collider2D otherCollider) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ChangeTrigger.OnTriggerEnter2D (UnityEngine.Collider2D otherCollider) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+We hit prototype_blue_32x32 and did 10 damage.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+We hit prototype_blue_32x32 and did 10 damage.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+We hit prototype_blue_32x32 and did 10 damage.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+We hit Player and did 10 damage.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+We hit prototype_blue_32x32 and did 10 damage.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+We hit prototype_blue_32x32 and did 10 damage.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ChangeTrigger.OnTriggerEnter2D (UnityEngine.Collider2D otherCollider) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ChangeTrigger.OnTriggerEnter2D (UnityEngine.Collider2D otherCollider) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+We hit BulletPrefab 1(Clone) and did 10 damage.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+We hit BulletPrefab 1(Clone) and did 10 damage.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+We hit BulletPrefab 1(Clone) and did 10 damage.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+We hit prototype_blue_32x32 and did 10 damage.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+We hit prototype_blue_32x32 and did 10 damage.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ChangeTrigger.OnTriggerEnter2D (UnityEngine.Collider2D otherCollider) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+We hit prototype_blue_32x32 and did 10 damage.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ChangeTrigger.OnTriggerEnter2D (UnityEngine.Collider2D otherCollider) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+We hit prototype_blue_32x32 and did 10 damage.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ChangeTrigger.OnTriggerEnter2D (UnityEngine.Collider2D otherCollider) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+We hit prototype_blue_32x32 and did 10 damage.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ChangeTrigger.OnTriggerEnter2D (UnityEngine.Collider2D otherCollider) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+We hit prototype_blue_32x32 and did 10 damage.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ChangeTrigger.OnTriggerEnter2D (UnityEngine.Collider2D otherCollider) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+We hit Player and did 10 damage.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+We hit prototype_blue_32x32 and did 10 damage.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+We hit prototype_blue_32x32 and did 10 damage.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+We hit prototype_blue_32x32 and did 10 damage.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+We hit prototype_blue_32x32 and did 10 damage.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+We hit prototype_blue_32x32 and did 10 damage.
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
